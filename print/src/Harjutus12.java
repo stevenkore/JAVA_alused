@@ -9,7 +9,7 @@ public class Harjutus12 {
 
         System.out.print("Type your age: ");
         int firstAge = reader.nextInt();
-        
+
         System.out.println();
 
         System.out.print("Type your name: ");
